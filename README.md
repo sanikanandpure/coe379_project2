@@ -1,10 +1,6 @@
 # COE 379L Project 2
 ## Authors: Sanika Nandpure and Melissa Huang
 
-Part 3 should include a Dockerfile, 
-a docker image (prebuilt and pushed to Docker Hub) 
-It should also include a README with instructions for using the container image, docker-compose file and example requests
-
 Our docker image is published under the name: sanikanandpure/ml-damage-api. 
 Available publicly on Docker Hub [here](https://hub.docker.com/repository/docker/sanikanandpure/ml-damage-api/tags). 
 
