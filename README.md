@@ -30,6 +30,5 @@ url = "http://localhost:5000/inference"
 with open("<path_to_image_here>.jpg", "rb") as img:
     files = {"image": img}
     response = requests.post(url, files=files)
-```
 print(response.json())
-
+```
