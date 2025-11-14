@@ -1,5 +1,5 @@
 # COE 379L Project 2
-# Authors: Sanika Nandpure and Melissa Huang
+## Authors: Sanika Nandpure and Melissa Huang
 
 Part 3 should include a Dockerfile, 
 a docker image (prebuilt and pushed to Docker Hub) 
