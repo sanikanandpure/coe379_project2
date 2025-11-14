@@ -2,7 +2,7 @@
 ## Authors: Sanika Nandpure and Melissa Huang
 
 Our docker image is published under the name: sanikanandpure/ml-damage-api. 
-Available publicly on Docker Hub [here](https://hub.docker.com/repository/docker/sanikanandpure/ml-damage-api/tags). 
+Available publicly on Docker Hub [here](https://hub.docker.com/repository/docker/sanikanandpure/ml-damage-api/general). 
 
 An external user can access this by pulling the docker image: 
 ```python
